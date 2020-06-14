@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46359d52-c4cf-4202-8cda-aa299f611e40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dJWy0IMnAkxnfnM0CFqZGqiyrk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
+  </component>
+  <component name="RunManager" selected="Application.ValidateSudoku">
+    <configuration name="CheapestFlightsWithinKStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.phantomfury.leetcode.junechallenge.CheapestFlightsWithinKStops" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phantomfury.leetcode.junechallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.phantomfury.interviewbit.hashing.ValidateSudoku" />
+      <module name="InterviewBit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.phantomfury.interviewbit.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidateSudoku" />
+        <item itemvalue="Application.CheapestFlightsWithinKStops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46359d52-c4cf-4202-8cda-aa299f611e40" name="Default Changelist" comment="" />
+      <created>1592143926413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592143926413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Project_Structure" timestamp="1592144704679">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592144704679" />
+    <state width="463" height="466" key="DebuggerActiveHint" timestamp="1592151984386">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="463" height="466" key="DebuggerActiveHint/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592151984386" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1592155866064">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104264" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592155866064" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1592155866061">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.center/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104256" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592155866061" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1592155866060">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.left/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104251" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592155866060" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1592155866063">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.right/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104259" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592155866063" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom" timestamp="1592154539233">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104702" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592154539233" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center" timestamp="1592154539229">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104690" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592154539229" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left" timestamp="1592154539228">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104687" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592154539228" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right" timestamp="1592154539232">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592145104693" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592154539232" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1592144770792">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592144770792" />
+    <state x="1537" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592154085195">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state x="1537" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592154085195" />
+    <state x="1358" y="109" key="new project wizard" timestamp="1592154229305">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state x="69" y="97" key="new project wizard/1280.0.1440.900/0.0.1280.800@0.0.1280.800" timestamp="1592144025749" />
+    <state x="1358" y="109" key="new project wizard/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592154229305" />
+    <state x="1665" y="196" key="search.everywhere.popup" timestamp="1592155433631">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state x="1665" y="196" key="search.everywhere.popup/1280.0.1440.900/0.0.1280.800@1280.0.1440.900" timestamp="1592155433631" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Arrays.deepToString(flights)" language="JAVA" custom="java.util.Arrays" />
+        <watch expression="possibleDests.get(j)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
